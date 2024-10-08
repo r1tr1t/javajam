@@ -20,4 +20,5 @@ body {
     padding: 1.3em 1em;
     box-shadow: 10px 10px 5px rgba(0,0,0, 0.24);
     user-select: none;
+    transition: ease;
 }
